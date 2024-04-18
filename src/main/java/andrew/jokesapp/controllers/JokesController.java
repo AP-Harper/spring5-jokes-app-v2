@@ -1,6 +1,5 @@
 package andrew.jokesapp.controllers;
 
-import andrew.jokesapp.Models.JokesModel;
 import andrew.jokesapp.services.ChuckNorrisJokesImpl;
 import andrew.jokesapp.services.JokesService;
 import org.springframework.beans.factory.annotation.Autowired;
